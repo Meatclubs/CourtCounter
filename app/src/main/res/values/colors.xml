@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6F00</color>
+    <color name="colorButtonNormal">#FF6F00</color>
+    <color name="colorTeamName">#EEEEEE</color>
+    <color name="colorScore">#FFFFFF</color>
+    <color name="colorMainBG">#1A237E</color>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#FF9000</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FF9000</item>
+    </style>
+
+    <style name="teamNameTextStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTeamName</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="scoreTextStyle">
+        <item name="android:textSize">56sp</item>
+        <item name="android:textColor">@color/colorScore</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+</resources>
